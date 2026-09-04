@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What is the purpose of the UAE Central Bank Consumer Protection Regulation?",
+        "expected_answer": "To safeguard consumers by setting mandatory standards for licensed financial institutions"
+    },
+    {
+        "question": "What are the rights of consumers under UAE banking regulations?",
+        "expected_answer": "Consumers have rights related to transparency, fair treatment and complaint resolution"
+    },
+    {
+        "question": "What is the definition of default under UAE credit risk regulation?",
+        "expected_answer": "A default occurs when a payment is past due for more than 90 days"
+    },
+    {
+        "question": "What is Basel III?",
+        "expected_answer": "A global regulatory framework setting minimum capital, liquidity and leverage standards for banks"
+    },
+    {
+        "question": "What is the minimum capital requirement under Basel III?",
+        "expected_answer": "8% of risk weighted assets"
+    },
+    {
+        "question": "What is the weather like on Mars?",
+        "expected_answer": "I do not have enough information to answer this."
+    }
+]
