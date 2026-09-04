@@ -8,3 +8,15 @@ groq
 python-dotenv
 streamlit
 pypdf
+
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+groq
+python-dotenv
+streamlit
+pypdf
+pytest
