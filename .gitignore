@@ -5,8 +5,8 @@
 # FAISS index
 faiss_index/
 
-# PDF documents — too large for GitHub
-data/documents/
+
+
 
 # Python cache
 __pycache__/
